@@ -3,3 +3,5 @@ Porsche 935
 Porsche 918 Spyder
 Porsche 919 Hybrid LMP1
 Porsche 911 Singer
+Porsche 911 GT3 R
+Porsche 911 RSR
